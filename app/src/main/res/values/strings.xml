@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JoturApplication</string>
+    <string name="jotur">Jotur</string>
+    <string name="horarios">Horarios</string>
+    <string name="integra_ao">Integraçao</string>
+    <string name="noti_ias">Notiçias</string>
+    <string name="bilhetagem">Bilhetagem</string>
+    <string name="Bilhetagem">Bilhetagem</string>
+</resources>
